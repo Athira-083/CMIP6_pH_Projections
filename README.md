@@ -14,11 +14,13 @@ Notebooks for calculating the CMIP6 ensemble, seasonal variability, trends, bias
 
 Notebooks for generating the spatial maps, time series, seasonal cycles, variability plots, and other publication-quality figures presented in the study.
 
-### Python Environment
+## Python Environment
 
 The analysis is implemented primarily in Python using scientific and visualization libraries.
 
-Main dependencies
+### Main dependencies
+
+```text
 Python
 NumPy
 Pandas
@@ -28,8 +30,13 @@ SciPy
 cmocean
 Cartopy
 Basemap
+```
 
 A typical environment can be installed using:
 
+```bash
 conda env create -f environment.yml
 conda activate
+```
+
+
