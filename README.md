@@ -1,6 +1,6 @@
-# CMIP6 Indian Ocean pH Analysis
+# Indian Ocean Acidification Using Bias-Corrected CMIP6 Model Projection Under Future Climate Scenarios: 
 
-This repository contains Jupyter notebooks used for **data preparation, analysis, and visualization of Indian Ocean pH and [H⁺] from CMIP6 model simulations**.
+This repository contains Jupyter notebooks used for **data preparation, analysis, and visualization**.
 
 ### Data Preparation
 
