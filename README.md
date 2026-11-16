@@ -23,10 +23,10 @@ The table below lists the notebook(s) used to generate each figure in the study 
 | Fig. 5 | `Monthly_pH_cycle_of_CMIP6_ENS.ipynb` | `ph_cmip6_ensemble_ssp585.nc` |
 | Fig. 6 | `Taylor_plot_bc.ipynb` | `ph_cmip6_ensemble_ssp585.nc`<br>`Hplus_cmip6_ensemble_ssp585.nc` |
 | Fig. 7 | `seasonal_cycle_nc_files_bc.ipynb`<br>`seasonal_anomaly_plots_bc-hplus.ipynb` | `Hplus_ssp585_biascorrected.nc`<br>`Hplus_ssp245_biascorrected.nc`<br>`Hplus_ssp126_biascorrected.nc` |
-| Fig. 8 | `Time_of_Emergence_biascorrected_data.ipynb` | |
-| Fig. 9 | `test-regional_extremes_recal_bc.ipynb` | |
-| Fig. 10 | `intensity_recal_bc.ipynb` | |
-| Fig. 11 | `extrems_H+_duration-test-Copy1.ipynb` | |
+| Fig. 8 | `Time_of_Emergence_biascorrected_data.ipynb` | `Hplus_ssp585_biascorrected.nc`<br>`Hplus_ssp245_biascorrected.nc`<br>`Hplus_ssp126_biascorrected.nc` |
+| Fig. 9 | `test-regional_extremes_recal_bc.ipynb` | `Hplus_ssp585_biascorrected.nc`<br>`Hplus_ssp245_biascorrected.nc`<br>`Hplus_ssp126_biascorrected.nc` |
+| Fig. 10 | `intensity_recal_bc.ipynb` | `Hplus_ssp585_biascorrected.nc`<br>`Hplus_ssp245_biascorrected.nc`<br>`Hplus_ssp126_biascorrected.nc` |
+| Fig. 11 | `extrems_H+_duration-test-Copy1.ipynb` | `Hplus_ssp585_biascorrected.nc`<br>`Hplus_ssp245_biascorrected.nc`<br>`Hplus_ssp126_biascorrected.nc` |
 
 ## Python Environment
 
