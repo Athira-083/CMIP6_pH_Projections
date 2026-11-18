@@ -17,7 +17,7 @@ The table below lists the notebook(s) used to generate each figure in the study 
 
 | Figure No. | Python Script | Data File Name |
 | --- | --- | --- |
-| Fig. 1 | `Study_domain.ipynb` | - |
+| Fig. 1 | `Study_domain.ipynb` | The pH outputs from `CMEMS-LSCE-FFNN` (https://dx.doi.org/10.48670/moi-00047) and `OceanSODA` (https://doi.org/10.25921/m5wx-ja34) |
 | Fig. 3 | `model_uncertainty.ipynb`<br>`model_uncertainty_avg.ipynb`<br>`UIN_ENS.ipynb`<br>`UIN_ENS_ssp245.ipynb`<br>`UIN_ENS_ssp126.ipynb`<br>`Total_uncertainty_ph.ipynb`<br>`pH_uncertainty_plot.ipynb` | `ph_cmip6_ensemble_ssp585.nc`<br>`ph_cmip6_ensemble_ssp245.nc`<br>`ph_cmip6_ensemble_ssp126.nc` |
 | Fig. 4 | `Future_mean_Hplus_projections.ipynb`<br>`Future_mean_ph_projections.ipynb` | `Hplus_cmip6_ensemble_ssp585.nc`<br>`ph_cmip6_ensemble_ssp585.nc` |
 | Fig. 5 | `Monthly_pH_cycle_of_CMIP6_ENS.ipynb` | `ph_cmip6_ensemble_ssp585.nc` |
